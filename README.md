@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun S Pramod 
-- 👀 In love with Problem solving, Competitive programming.
-- 🌱 I’m currently preparing for my placements
+- 👀 Interested in Machine Learning, Problem solving, and Competitive programming.
+- 🌱 I’m currently looking for Internships and FTE in ML, DL, and AI domains
 - 📫 How to reach me ....  mail to: arjunspramod@gmail.com or ascorncup@gmail.com
                            
 
